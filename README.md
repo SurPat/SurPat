@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TensorFlow, Pytorch**
 
-- 👯 I’m looking to collaborate on **anything which requires critical Thinking**
+- 👯 I’m looking to collaborate on **anything which requires Critical Thinking**
 
 - 💬 Ask me about **ML/AI, Computer vision**
 
