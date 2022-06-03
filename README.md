@@ -1,5 +1,5 @@
-<h1 align="center"> ...You are here for a reason... </h1>
-<h2 align="center">Let's see if we are working for a common cause/goal/vision/imagination</h2>
+<h1 align="center"> 🙏|| नमस्ते || NAMASTEY || </h1>
+<h2 align="center">You are here for a reason, Let's see if we are working for a common cause/goal/vision/imagination</h2>
 
 - 🔭 I’m currently working on **CNN, RNN**
 
