@@ -1,5 +1,5 @@
 **|| नमस्ते **|| NAMASTEY ||**
-**Suraj Patel**
+
 You are here for a reason...
 Let's see if we are working for a common cause/goal/vision/imagination
 
